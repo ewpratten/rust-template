@@ -1,5 +1,5 @@
 [package]
-name = "rust-lib-template"
+name = "<crate_name>"
 version = "0.1.0"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 edition = "2018"
